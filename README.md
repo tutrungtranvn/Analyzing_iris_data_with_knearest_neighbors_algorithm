@@ -10,3 +10,6 @@ In this github will cover the following files:
 2. File dataset to analyzing ( iris.csv ).
 
 ## **Run project:**
+1. Select application to execute file IR2.py such as Jupyter notebook, PyCharm,...
+2. Create folder that including IR2.py and iris.csv
+3. Execute file IR2.py 
